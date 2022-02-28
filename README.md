@@ -5,4 +5,7 @@
   git clone https://github.com/burakersen/react-twitter-clone.git \
   cd react-twitter-clone \
   npm install \
-  npm start
+  npm start \
+
+## Core Packages
+1. Tailwindcss - styling
